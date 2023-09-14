@@ -1,0 +1,6 @@
+{
+    "code-runner.enableAppInsights": false,
+    "livecode.telemetry": false,
+    "AREPL.telemetry": false,
+    "gitlens.telemetry.enabled": false
+}
